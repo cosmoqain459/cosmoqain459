@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vishesh+Singh;AI+%2F+ML+Engineer;Open+Source+Contributor;Building+things+that+matter." alt="Typing SVG" />
-
+<img src="./banner.png" alt="Vishesh Singh" width="100%"/>
 </div>
 
 <p align="center">
@@ -11,94 +9,127 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=cosmoqain459&style=flat-square&color=2563EB&label=Profile+Views" />
 </p>
 
----
-
-### About Me
-
-- 🎓 BE Computer Science — AI & Machine Learning
-- 🧠 Learning Deep Learning & Computer Vision
-- 🤝 Active open-source contributor
-- 🎯 Aiming for Google Summer of Code 2027
-- ♟️ Chess in my free time
-
-### Currently
-
-- 🚀 GirlScript Summer of Code 2026
-- 🛰️ Bharatiya Antariksh Hackathon 2026
-- 📚 Learning ML & Deep Learning
-
----
-
-### Tech Stack
-
-**Languages**
 <br/>
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Frontend & Backend**
+I'm a Computer Science (AI & ML) student who likes building intelligent systems that hold up outside a notebook. My interests sit at the intersection of machine learning, computer vision, and open source — turning ideas into software people can actually use.
+
 <br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+## What I'm Building
+
+- 🧠 Machine learning systems that hold up outside a notebook
+- 🛰️ Computer vision for satellite imagery
+- 🌍 Open source software, mostly in the healthcare and civic-tech space
+- ⚡ Software with a real user on the other end, not just a demo
+
+<br/>
+
+## Featured Projects
+
+**🛰️ Satellite Colorization — IR2RGB-Net**
+<br/>
+Semantic-guided infrared-to-RGB translation for Landsat 8/9 thermal imagery, built for the Bharatiya Antariksh Hackathon.
+- Trained and tuned the image-translation pipeline for satellite thermal data
+- `PyTorch` `Pix2Pix`
+
+[View Project →](https://github.com/cosmoqain459/IR2RGB-Net)
+
+**🩺 Symptom Scribe**
+<br/>
+A health-tracking platform that helps users log symptoms and get intelligent, early insight into their wellbeing.
+- Contributed UI/UX improvements and accessibility fixes
+- `React` `Supabase` `Tailwind`
+
+[View Project →](https://github.com/mohdmaazgani/symptom-scribe-clean)
+
+**🌾 Agri Vision**
+<br/>
+Deep learning system that reads cotton crop growth stages and flags health issues from field imagery.
+- Worked on the computer vision detection pipeline
+- `OpenCV` `Scikit-learn`
+
+[View Project →](https://github.com/neeru24/Agri-Vision)
+
+**⚖️ Nyay Setu**
+<br/>
+Civic-tech platform bridging citizens and the justice system with accessible, plain-language tooling.
+- Built core frontend flows and the data layer
+- `React` `Node.js` `PostgreSQL`
+
+<sub>Add a screenshot or GIF for each project here once you have one — visuals do more for this section than any badge.</sub>
+
+<br/>
+
+## Open Source Impact
+
+Merged contributions across healthcare, computer vision, and developer tooling.
+
+- GirlScript Summer of Code 2026 — active contributor
+- Bharatiya Antariksh Hackathon 2026 — participant, satellite CV
+- Multiple pull requests merged into community projects <sub>(swap in your real PR count once you have it — concrete numbers land better than "multiple")</sub>
+
+<br/>
+
+## Current Mission
+
+```
+✓  GirlScript Summer of Code
+✓  Bharatiya Antariksh Hackathon
+◉  Deep Learning — in progress
+○  Google Summer of Code 2027
+○  Machine Learning internship
+```
+
+**Currently learning:** Deep Learning · Computer Vision · LLMs
+
+<br/>
+
+## Tech Stack
 
 **AI / ML**
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+PyTorch &nbsp;·&nbsp; OpenCV &nbsp;·&nbsp; Scikit-learn
 
-**Tools**
+**Frontend**
 <br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+React &nbsp;·&nbsp; Tailwind CSS
 
----
+**Backend**
+<br/>
+Node.js &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; PostgreSQL
 
-### Featured Projects
+**Languages**
+<br/>
+Python &nbsp;·&nbsp; Java &nbsp;·&nbsp; C++
 
-| Project | Description | Stack |
-|---|---|---|
-| 🩺 **Symptom Scribe** | AI-assisted symptom analysis for early health insight | React · Supabase · Tailwind |
-| 🛰️ **Satellite Colorization** | Infrared-to-RGB satellite image translation (ISRO Hackathon) | PyTorch · Pix2Pix |
-| 🌾 **Agri Vision** | Computer vision for crop health & growth-stage detection | OpenCV · Scikit-learn |
-| ⚖️ **Nyay Setu** | Civic-tech platform bridging citizens and the justice system | React · Node.js · PostgreSQL |
+<br/>
 
----
-
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=cosmoqain459&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoqain459&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoqain459&theme=default&hide_border=true" />
 </p>
 
----
+<br/>
 
-### Achievements
+## Let's Connect
 
-- 🥇 GirlScript Summer of Code 2026 — Contributor
-- 🚀 Multiple open-source PRs merged
-- 🛰️ Bharatiya Antariksh Hackathon — Participant
-
----
+Open to collaborating on AI, computer vision, and open-source projects.
 
 <p align="center">
-  <sub>Building AI that solves real-world problems.</sub>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:YOUR_EMAIL">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/cosmoqain459">GitHub</a>
 </p>
+
+<br/>
+
+<div align="center">
+<sub><i>The best models don't just learn from data — they create value for people.</i></sub>
+</div>
