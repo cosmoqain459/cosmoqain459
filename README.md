@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishesh-singh-692b8332b/">
+  <a href="https://www.linkedin.com/in/vishesh-singh-692b8332b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cosmoqain99@gmail.com">
