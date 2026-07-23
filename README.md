@@ -5,11 +5,98 @@
 <br/>
 
 <div align="center">
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sea" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#050B14"/>
+      <stop offset="45%" stop-color="#0B1E33"/>
+      <stop offset="100%" stop-color="#0E2A3D"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#0B1E33" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#020508" stop-opacity="0.75"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A6A2F"/>
+      <stop offset="50%" stop-color="#D8B872"/>
+      <stop offset="100%" stop-color="#8A6A2F"/>
+    </linearGradient>
+  </defs>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cosmoqain459&color=8A6A2F&style=flat-square&label=VISITS)
-![Followers](https://img.shields.io/github/followers/cosmoqain459?color=8A6A2F&style=flat-square&label=FOLLOWERS)
-![Location](https://img.shields.io/badge/BASED_IN-India-8A6A2F?style=flat-square)
+  <rect width="1200" height="320" fill="url(#sea)"/>
 
+  <!-- night sky / neural constellation, upper third -->
+  <g stroke="#3E6C8A" stroke-width="1" opacity="0.55">
+    <line x1="90" y1="45" x2="180" y2="30"/>
+    <line x1="180" y1="30" x2="255" y2="60"/>
+    <line x1="180" y1="30" x2="150" y2="80"/>
+    <line x1="255" y1="60" x2="320" y2="40"/>
+    <line x1="960" y1="50" x2="1030" y2="35"/>
+    <line x1="1030" y1="35" x2="1100" y2="65"/>
+    <line x1="1030" y1="35" x2="1000" y2="85"/>
+  </g>
+  <g fill="#D8B872">
+    <circle cx="90" cy="45" r="2"/>
+    <circle cx="180" cy="30" r="2.5"/>
+    <circle cx="255" cy="60" r="2"/>
+    <circle cx="150" cy="80" r="1.8"/>
+    <circle cx="320" cy="40" r="1.8"/>
+    <circle cx="960" cy="50" r="1.8"/>
+    <circle cx="1030" cy="35" r="2.5"/>
+    <circle cx="1100" cy="65" r="2"/>
+    <circle cx="1000" cy="85" r="1.8"/>
+  </g>
+
+  <!-- faint topographic / map contour lines -->
+  <g stroke="#D8B872" stroke-width="1" fill="none" opacity="0.15">
+    <path d="M-20,230 C 200,190 350,260 600,220 S 1000,180 1220,230"/>
+    <path d="M-20,255 C 220,215 380,280 620,245 S 1020,205 1220,255"/>
+    <path d="M-20,280 C 240,250 400,300 640,275 S 1040,235 1220,280"/>
+  </g>
+
+  <!-- compass rose, left -->
+  <g transform="translate(150,175)" opacity="0.95">
+    <circle r="62" fill="none" stroke="url(#gold)" stroke-width="1.5"/>
+    <circle r="46" fill="none" stroke="#D8B872" stroke-width="0.75" opacity="0.5"/>
+    <g stroke="#D8B872" stroke-width="1" opacity="0.7">
+      <line x1="0" y1="-62" x2="0" y2="-52"/>
+      <line x1="0" y1="62" x2="0" y2="52"/>
+      <line x1="-62" y1="0" x2="-52" y2="0"/>
+      <line x1="62" y1="0" x2="52" y2="0"/>
+    </g>
+    <path d="M0,-46 L11,0 L0,46 L-11,0 Z" fill="#D8B872" opacity="0.85"/>
+    <path d="M-46,0 L0,11 L46,0 L0,-11 Z" fill="#8A6A2F" opacity="0.85"/>
+    <circle r="4.5" fill="#F3E4BC"/>
+    <text x="0" y="-70" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#D8B872" opacity="0.8">N</text>
+  </g>
+
+  <!-- dotted route line crossing toward a small ship -->
+  <g>
+    <path d="M 240,220 C 400,150 520,240 660,190 S 850,150 950,175" stroke="#D8B872" stroke-width="1.5" fill="none" stroke-dasharray="1 9" stroke-linecap="round" opacity="0.8"/>
+    <circle cx="400" cy="176" r="3" fill="#D8B872"/>
+    <circle cx="660" cy="190" r="3" fill="#D8B872"/>
+    <circle cx="850" cy="152" r="3" fill="#D8B872"/>
+  </g>
+
+  <!-- small ship silhouette marking current position -->
+  <g transform="translate(965,178)" fill="#0B1E33" stroke="#D8B872" stroke-width="1.5">
+    <path d="M-22,6 L22,6 L15,18 L-15,18 Z" fill="#0B1E33"/>
+    <line x1="0" y1="6" x2="0" y2="-24"/>
+    <path d="M0,-24 L18,-8 L0,-2 Z" fill="none"/>
+    <path d="M0,-20 L-14,-6 L0,-2 Z" fill="none"/>
+  </g>
+  <circle cx="965" cy="178" r="34" fill="none" stroke="#D8B872" stroke-width="1" opacity="0.4"/>
+
+  <rect width="1200" height="320" fill="url(#vignette)"/>
+
+  <!-- title block -->
+  <text x="600" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" letter-spacing="4" fill="#F3E4BC">VISHESH SINGH</text>
+  <text x="600" y="182" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#8FB4CC">Charting a long course through AI, one shipped project at a time</text>
+
+  <line x1="480" y1="205" x2="720" y2="205" stroke="#8A6A2F" stroke-width="1" opacity="0.6"/>
+
+  <text x="600" y="232" text-anchor="middle" font-family="'Trebuchet MS', Helvetica, sans-serif" font-size="13" letter-spacing="3" fill="#D8B872">AI ENGINEER  ·  OPEN SOURCE CONTRIBUTOR  ·  BUILDER</text>
+</svg>
 </div>
 
 <br/>
