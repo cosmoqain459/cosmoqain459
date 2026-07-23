@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishesh-singh-692b8332b/">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:cosmoqain99@gmail.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=cosmoqain459&style=flat-square&color=2563EB&label=Profile+Views" />
