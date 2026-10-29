@@ -1,4 +1,4 @@
-# Vishesh Singh
+## Vishesh Singh
 
 <p align="center">
   <em>Computer Science & Engineering (AI/ML) · Machine Learning · Computer Vision · Open Source</em>
