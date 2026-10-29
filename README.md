@@ -93,17 +93,19 @@ I'm interested in contributing to projects where I can improve real software, le
 - Preparing for Google Summer of Code 2027.
 
 ---
-
-## GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmoqain459&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=cosmoqain459&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cosmoqain459&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmoqain459&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/cosmoqain459?tab=repositories">Explore my repositories →</a>
+</p>
 ---
 
 ## Connect
